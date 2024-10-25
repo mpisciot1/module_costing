@@ -1,0 +1,2 @@
+This repository is a collection of python scripts that can be used to calculate capital costs for equipment at a chemical engineering plant.
+The capital cost calculations and correlations can be found in Analysis, Synthesis, and Design of Chemical Processes, Fourth Edition by Richard Turton, Richard C. Bailie, Wallace B. Whiting, Joseph A. Shaeiwitz, Debangsu Bhattacharyya and published by Pearson.
