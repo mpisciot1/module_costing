@@ -13,6 +13,3 @@ The equipment that can be capital costed using these models include:
   - Centrifugal Separator (diameter: 0.5 - 1 m)
   - Oscillating Screen (diameter: 0.5 - 1.1 m)
   - Solid Bowl with Motor (diameter: 0.5 - 2 m)
-- Compressors with configurations (and sizing):
-  - Centrifugal, axial, and reciprocating (fluid power: 450 - 3000 kW)
-  - Rotary (fluid power: 18 - 950 kW)
