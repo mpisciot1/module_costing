@@ -50,6 +50,6 @@ def blenderCapCost(blenderType, minSize, cepciCurrent):
     # Caluclate Bare Module Cost
     bareModuleCost = cost*bareModuleFactor
 
-    print(f'This application requires {count} blenders of {round(avgSize,1)} kW, each costing ${round(cost/count,2)}, totalling ${round(cost,2)}')
+    print(f'This application requires {count} blenders of {round(avgSize,1)} m3, each costing ${round(cost/count,2)}, totalling ${round(cost,2)}')
     # Return count for # of blenders, aggregate equipment cost, and aggregate bare module cost
     return [count, cost, bareModuleCost]
